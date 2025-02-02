@@ -1,0 +1,29 @@
+<div class="header">
+    <h3 class="mb-1 text-center">Grocery Shop</h3>
+    <form [formGroup]="dateForm" class="d-flex align-items-center">
+        <div class="header-bottom">
+            <div>
+                <label>From</label>
+                <input class="form-control" type="date" formControlName="fromDate" />
+            </div>
+            <div>
+                <label>To</label>
+                <input class="form-control" type="date" formControlName="toDate" />
+            </div>
+            <div>
+                <button class="btn btn-success button-custom" [disabled]="dateForm.invalid" (click)="applyFilter()">
+                    <span *ngIf="isLoading" class="spinner-border spinner-border-sm" role="status"
+                        aria-hidden="true"></span>
+                    {{ isLoading ? 'Loading...' : 'Filter' }}
+
+                </button>
+            </div>
+            <div *ngIf="dateForm.invalid" class="alert alert-danger mt-0 mb-0 px-0 py-0 br-0">
+                Invalid date range
+            </div>
+            <div *ngIf="dateForm.valid && errorMessage" class="alert alert-danger mt-0 mb-0 px-0 py-0 br-0">
+                {{errorMessage}}
+            </div>
+        </div>
+    </form>
+</div>

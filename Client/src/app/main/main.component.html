@@ -1,0 +1,5 @@
+<div class="container px-1 py-2">
+    <app-header [errorMessage]="errorMessage" [isLoading]="isLoading" (dateRangeChange)="updateDateRange($event)"></app-header>
+    <app-content [data]="cashEntryData"></app-content>
+    <app-footer></app-footer>
+</div>

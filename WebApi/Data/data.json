@@ -1,0 +1,202 @@
+[
+  {
+    "date": "2010-03-15",
+    "income": 500,
+    "outcome": 200
+  },
+  {
+    "date": "2011-07-21",
+    "income": 650,
+    "outcome": 300
+  },
+  {
+    "date": "2012-02-10",
+    "income": 800,
+    "outcome": 400
+  },
+  {
+    "date": "2013-09-05",
+    "income": 550,
+    "outcome": 250
+  },
+  {
+    "date": "2014-06-18",
+    "income": 900,
+    "outcome": 450
+  },
+  {
+    "date": "2015-12-30",
+    "income": 700,
+    "outcome": 350
+  },
+  {
+    "date": "2016-05-22",
+    "income": 750,
+    "outcome": 370
+  },
+  {
+    "date": "2017-11-11",
+    "income": 820,
+    "outcome": 420
+  },
+  {
+    "date": "2018-04-07",
+    "income": 600,
+    "outcome": 310
+  },
+  {
+    "date": "2019-08-19",
+    "income": 950,
+    "outcome": 500
+  },
+  {
+    "date": "2020-01-25",
+    "income": 720,
+    "outcome": 360
+  },
+  {
+    "date": "2021-06-14",
+    "income": 810,
+    "outcome": 420
+  },
+  {
+    "date": "2022-03-09",
+    "income": 880,
+    "outcome": 460
+  },
+  {
+    "date": "2023-07-27",
+    "income": 930,
+    "outcome": 480
+  },
+  {
+    "date": "2024-02-16",
+    "income": 760,
+    "outcome": 380
+  },
+  {
+    "date": "2024-10-10",
+    "income": 890,
+    "outcome": 440
+  },
+  {
+    "date": "2025-05-30",
+    "income": 920,
+    "outcome": 470
+  },
+  {
+    "date": "2011-11-20",
+    "income": 530,
+    "outcome": 240
+  },
+  {
+    "date": "2016-07-14",
+    "income": 680,
+    "outcome": 290
+  },
+  {
+    "date": "2023-12-05",
+    "income": 710,
+    "outcome": 330
+  },
+  {
+    "date": "2010-05-12",
+    "income": 450,
+    "outcome": 180
+  },
+  {
+    "date": "2011-08-25",
+    "income": 700,
+    "outcome": 320
+  },
+  {
+    "date": "2012-11-03",
+    "income": 850,
+    "outcome": 410
+  },
+  {
+    "date": "2013-04-14",
+    "income": 530,
+    "outcome": 230
+  },
+  {
+    "date": "2014-09-30",
+    "income": 880,
+    "outcome": 460
+  },
+  {
+    "date": "2015-06-07",
+    "income": 720,
+    "outcome": 340
+  },
+  {
+    "date": "2016-10-20",
+    "income": 770,
+    "outcome": 390
+  },
+  {
+    "date": "2017-12-15",
+    "income": 800,
+    "outcome": 400
+  },
+  {
+    "date": "2018-03-09",
+    "income": 580,
+    "outcome": 290
+  },
+  {
+    "date": "2019-07-27",
+    "income": 970,
+    "outcome": 510
+  },
+  {
+    "date": "2020-02-18",
+    "income": 730,
+    "outcome": 350
+  },
+  {
+    "date": "2021-05-21",
+    "income": 820,
+    "outcome": 420
+  },
+  {
+    "date": "2022-09-14",
+    "income": 890,
+    "outcome": 470
+  },
+  {
+    "date": "2023-11-29",
+    "income": 940,
+    "outcome": 490
+  },
+  {
+    "date": "2024-04-22",
+    "income": 770,
+    "outcome": 370
+  },
+  {
+    "date": "2024-12-05",
+    "income": 910,
+    "outcome": 430
+  },
+  {
+    "date": "2025-06-15",
+    "income": 950,
+    "outcome": 480
+  },
+  {
+    "date": "2011-10-08",
+    "income": 520,
+    "outcome": 250
+  },
+  {
+    "date": "2016-08-19",
+    "income": 690,
+    "outcome": 300
+  },
+  {
+    "date": "2023-01-31",
+    "income": 730,
+    "outcome": 350
+  }
+]
