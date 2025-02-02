@@ -25,7 +25,7 @@ To run the application, follow these steps:
    ```
 1. Navigate to the project folder:
    ```sh
-   cd grocery-shop-front
+   cd Client
    ```
 2. Install dependencies:
    ```sh

@@ -70,5 +70,4 @@ The Cash Flow API is a simple web application built using .NET 8 to provide cash
 ## Future Improvements
 
 - Add logging and exception handling middleware.
-- Implement additional endpoints for creating, updating, or deleting records.
 - Enhance validation for request parameters.
